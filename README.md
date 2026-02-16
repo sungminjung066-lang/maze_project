@@ -109,7 +109,7 @@ Unity 프로젝트 표준 구조를 따릅니다.
 
 ## 🎥 플레이 영상
 
-<video controls src="Video/시연영상.mp4" title="시연영상"></video>
+[▶️ 시연 영상 보기](Video/시연영상.mp4)
 
 ---
 
