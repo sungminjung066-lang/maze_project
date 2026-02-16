@@ -10,7 +10,7 @@ Unity와 Oculus XR 환경을 활용하여 플레이어가 가상 공간에서 �
 본 프로젝트는 **VR 환경(Oculus 등)** 에서 실행되는 애플리케이션입니다.
 
 APK 다운로드:
-[maze.apk](Build/maze.apk)
+[maze.apk](<My project/Build/maze.apk>)
 
 ※ VR 기기가 필요합니다.
 ※ VR을 제외한 타 기기에서는 정상 실행되지 않을 수 있습니다.
